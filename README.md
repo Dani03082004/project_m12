@@ -1,1 +1,1 @@
-# Projecte DAW M12
+# Projecte DAW M12 - Alex Salas, Dani Bañeza
