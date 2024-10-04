@@ -1,2 +1,2 @@
 # Projecte DAW M12
-# Buenas tardes
+# Inicio del projecte
